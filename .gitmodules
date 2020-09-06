@@ -1,0 +1,6 @@
+[submodule "gofinances-web"]
+	path = gofinances-web
+	url = https://github.com/rafacdomin/gofinances-web
+[submodule "gofinances-api"]
+	path = gofinances-api
+	url = https://github.com/rafacdomin/gofinances-api
